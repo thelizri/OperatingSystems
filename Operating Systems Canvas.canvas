@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"45fbedda2560e8ce","type":"text","text":"#### Memory Allocation\n[[Basics of Memory Allocation]]\n[[Memory Management]]\n[[Paging and Segmentation]]","x":-760,"y":-340,"width":390,"height":139},
+		{"id":"dfc5d6fbf4805a95","type":"text","text":"#### Processes\n[[Processes]]\n[[Threads]]","x":-320,"y":-340,"width":240,"height":139},
+		{"id":"065fbbdba538e3c4","x":-760,"y":-640,"width":390,"height":240,"type":"text","text":"#### Scheduling\n[[CPU Scheduling]]\n##### Algorithms\n[[FCFS]]\n[[RR]]\n[[SJF]]\n[[SRTF]]\n"}
+	],
+	"edges":[]
+}
